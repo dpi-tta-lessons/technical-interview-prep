@@ -1,23 +1,38 @@
-# Replace with lesson title
+# Technical Interview Prep
 
-Add your content here!
+<!-- How technical interview is structured -->
 
-[Read up here for full instructions with examples for lesson writing.](https://learn.firstdraft.com/lessons/3-how-to-write-a-lesson)
+The technical interview is a measure of your understanding of object oriented programming, coachability, communication, debugging, error handling, and proficiency with tools like VSCode and the terminal. You will be given a technical question and have ~20 minutes to work through it. We will be watching and assesing you as you work through the question. It can be a bit nerve wracking to have someone watch you while you code. So make sure to practice! 
 
-## Heading 1
+Technical interviews are an unavoidable aspect of working in the technology field. It's best to practice now and build up your skills.
 
-Use `##` second or greater level headings (HTML `<h2>` and greater).
 
-### Heading 1.1
+## Sample Technical Interview
 
-Reference images from the `assets/` folder like so:
+https://github.com/DPI-WE/sample-technical-interview
 
-```
-![](assets/example-image.png)
-```
+- fork it
+- open in a codespace (or locally)
+- time yourself (20 minutes)
 
-You can use the path `/assets/my-image.png` or `assets/my-image.png`, both will render in your local markdown preview; and when you connect the repository with a Learn Lesson, the assets will upload to Cloudinary and the paths will automatically be converted to a hosted URL, e.g.:
+get comfortable with vs code and the command line
 
-```
-![](https://res.cloudinary.com/[CLOUD_NAME]/image/upload/[IMAGE_VERSION]/appdev-lessons/[REPO_NAME]/[BRANCH]/[IMAGE_NAME])
-```
+- `ruby app.rb` (in our case `birthday_cake.rb`)
+- ls, cd, etc. 
+
+- read the error messages
+- talk through your thought process out loud. This helps us gauge your communication skills and understanding. Maybe talk to a rubber duck, cat or dog if you have one.
+
+- Remember, we're here to help before (and during) interviews. If you don't know the answer feel free to ask! We operate under lock before key principle. We often wont give you the answer (key) until you ask us a question (lock).
+
+
+
+<!-- Add question. I have read the Rubric -->
+
+<!-- Add question. I have forked and practiced the sample technical question -->
+
+
+## Resources
+
+- Book time with a TA for more practice questions
+- Exercism
