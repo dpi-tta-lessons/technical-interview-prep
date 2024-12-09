@@ -13,8 +13,6 @@ Here are key aspects to focus on:
 
 It can be nerve-wracking to code while someone observes you. To combat this, practice extensively!
 
----
-
 ## Sample Technical Interview
 
 You can use the following repository to simulate a technical interview:
@@ -32,15 +30,11 @@ You can use the following repository to simulate a technical interview:
 5. Read error messages carefully and debug step by step.
 6. Talk through your thought process aloud. If you feel awkward, talk to a rubber duck, your cat, or even your dog!
 
----
-
 ### Ask for Help
 
 Remember, you are encouraged to ask questions during the interview. We operate under a "lock before key" principle, which means:
 - You must ask a question to unlock the solution (key).
 - We may guide you but won’t always directly provide the answer unless you engage with us!
-
----
 
 ### Resources for Practice
 
