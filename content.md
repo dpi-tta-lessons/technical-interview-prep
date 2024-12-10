@@ -6,7 +6,7 @@ The technical interview is a measure of your understanding of object-oriented pr
 
 Here are key aspects to focus on:
 
-- **Object-Oriented Programming**: Understanding the core principles such as encapsulation, methods, and data types.
+- **Object-Oriented Programming**: Understanding the core principles such as classes, methods, and data types.
 - **Debugging and Error Handling**: Be prepared to identify and fix errors as they arise.
 - **Tool Proficiency**: Familiarize yourself with tools like VSCode and the terminal.
 - **Communication**: Be prepared to communicate your thought process as you work through the exercises.
