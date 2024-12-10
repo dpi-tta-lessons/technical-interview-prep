@@ -54,14 +54,14 @@ Remember, you are encouraged to ask questions during the interview. We operate u
 - Yes
   - Great! Practicing ahead of time builds confidence and familiarity.
 - No
-  - Not quite. Make sure to fork the repository and go through the exercise to prepare.
+  - Not so fast. Make sure to fork the repository and go through the exercise to prepare.
 {: .choose_best #forked_practice title="Have you practiced the sample question?" points="1" answer="1" }
 
 - Have you created an Exercism account and completed at least 1 exercise?
 - Yes
   - Great! Practicing ahead of time builds confidence and familiarity.
 - No
-  - Not quite. Make sure to sign up and go through at least 1 exercise to prepare.
+  - Not so fast. Make sure to sign up and go through at least 1 exercise to prepare.
 {: .choose_best #exercism_practice title="Have you signed up for Exercism?" points="1" answer="1" }
 
 ---
