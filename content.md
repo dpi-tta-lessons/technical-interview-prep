@@ -1,6 +1,10 @@
 # Technical Interview Prep
 
-The technical interview is a measure of your understanding of object-oriented programming, coachability, communication, debugging, error handling, and proficiency with tools like VSCode and the terminal. During the interview, you will be given a technical question and have approximately 20 minutes to work through it. 
+The technical interview is a measure of your understanding of object-oriented programming, coachability, communication, debugging, error handling, and proficiency with tools like VSCode and the terminal. 
+
+## Structure
+
+During the interview, you will be provided a coding exercise and have approximately 20 minutes to work through it. 
 
 ## Preparing for the Technical Interview
 
